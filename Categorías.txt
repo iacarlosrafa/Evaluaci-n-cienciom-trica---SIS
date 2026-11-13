@@ -1,0 +1,48 @@
+Web of Science Categories	Record Count	% of 208
+Medicine General Internal	54	25.962
+Primary Health Care	41	19.712
+Health Care Sciences Services	39	18.750
+Public Environmental Occupational Health	39	18.750
+Medical Informatics	21	10.096
+Health Policy Services	18	8.654
+Nursing	14	6.731
+Medicine Research Experimental	7	3.365
+Pharmacology Pharmacy	7	3.365
+Infectious Diseases	6	2.885
+Psychiatry	5	2.404
+Environmental Sciences	4	1.923
+Immunology	4	1.923
+Multidisciplinary Sciences	3	1.442
+Rehabilitation	3	1.442
+Cell Biology	2	0.962
+Computer Science Interdisciplinary Applications	2	0.962
+Dentistry Oral Surgery Medicine	2	0.962
+Engineering Biomedical	2	0.962
+Information Science Library Science	2	0.962
+Nutrition Dietetics	2	0.962
+Obstetrics Gynecology	2	0.962
+Oncology	2	0.962
+Psychology	2	0.962
+Psychology Multidisciplinary	2	0.962
+Tropical Medicine	2	0.962
+Allergy	1	0.481
+Behavioral Sciences	1	0.481
+Biochemistry Molecular Biology	1	0.481
+Computer Science Cybernetics	1	0.481
+Computer Science Information Systems	1	0.481
+Developmental Biology	1	0.481
+Economics	1	0.481
+Emergency Medicine	1	0.481
+Endocrinology Metabolism	1	0.481
+Family Studies	1	0.481
+Gastroenterology Hepatology	1	0.481
+Management	1	0.481
+Pediatrics	1	0.481
+Psychology Developmental	1	0.481
+Respiratory System	1	0.481
+Social Issues	1	0.481
+Social Sciences Biomedical	1	0.481
+Social Sciences Interdisciplinary	1	0.481
+Substance Abuse	1	0.481
+
+2 record(s) (0.962%) do not contain data in the field being analyzed

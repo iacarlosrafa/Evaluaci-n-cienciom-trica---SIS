@@ -1,0 +1,11 @@
+Sustainable Development Goals	Record Count	% of 208
+03 Good Health And Well Being	202	97.115
+05 Gender Equality	20	9.615
+10 Reduced Inequality	4	1.923
+02 Zero Hunger	3	1.442
+04 Quality Education	2	0.962
+01 No Poverty	1	0.481
+09 Industry Innovation And Infrastructure	1	0.481
+16 Peace And Justice Strong Institutions	1	0.481
+
+4 record(s) (1.923%) do not contain data in the field being analyzed

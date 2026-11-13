@@ -1,0 +1,13 @@
+﻿id	author	documents	citations	total link strength
+102	"alzghaibi, haitham"	3	15	0
+166	"bazzano, alessandra"	3	31	17
+229	"burton, jeffrey"	3	29	14
+500	"greiver, michelle"	3	17	0
+539	"harden-barrios, jewel"	4	31	19
+595	"jamison, robert n."	3	31	17
+711	"lefante, john"	3	31	17
+769	"makaranga, joseph"	3	1	6
+871	"moshi, goodiel"	3	1	6
+1018	"price-haywood, eboni g."	4	31	19
+1161	"shi, lizheng"	3	31	17
+1211	"sukums, felix"	3	1	6
